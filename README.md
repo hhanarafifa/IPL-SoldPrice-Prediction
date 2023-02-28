@@ -38,3 +38,5 @@ The performance of the players could be measured through several metrics. Althou
 >>  Note: (+) sign used to indicate that the player had played for more than one team.
 >>  For example:
 >>  CSK+ would mean that the player had played for CSK as well as for one or more other teams.
+<br>
+All variables are continuous variables, except Auction Year, Team, Country, Playing Role, Age, Captaincy Exp, which are categorical variables.
